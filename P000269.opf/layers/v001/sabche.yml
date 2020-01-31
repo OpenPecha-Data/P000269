@@ -1,0 +1,120 @@
+id: 81437ae440f748cdbd8734fd89ce9033
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: d28f1d702a194c2989cc4cde4485cf91
+  span:
+    start: 2827
+    end: 3248
+- id: 39582efc60df402195b6ae70dab1a4b2
+  span:
+    start: 5261
+    end: 5299
+- id: 46806acf759847cfbe2726e7ec0b38b1
+  span:
+    start: 6372
+    end: 6438
+- id: 3a617fbb698241939662c7cea0fa9e06
+  span:
+    start: 8788
+    end: 8794
+- id: 71c821c39c6943f1aa10f3d6959e5986
+  span:
+    start: 9049
+    end: 9076
+- id: 3dc75ce9b06e44fcbe431c4cf74fdb22
+  span:
+    start: 10880
+    end: 10889
+- id: 06271ba85fcb4f64964d4f551585d8d4
+  span:
+    start: 19973
+    end: 20000
+- id: da7f3c9879604ad48df6d40e12852d99
+  span:
+    start: 27263
+    end: 27311
+- id: c05096f6e3164317906b25a7b9b2f005
+  span:
+    start: 32473
+    end: 32506
+- id: fc76ab1c5d324016b084fc57592e6951
+  span:
+    start: 33821
+    end: 33857
+- id: b48c914e99284fe99f1bb5d9756909ec
+  span:
+    start: 37265
+    end: 37320
+- id: 6fb977ba67cc4d42b490a8a9d01ff06b
+  span:
+    start: 45707
+    end: 45963
+- id: 5f8b950188e642c8a4a5e27b225429a8
+  span:
+    start: 50905
+    end: 51141
+- id: 56de3977ceaa49379be7a51638fd5592
+  span:
+    start: 53781
+    end: 53829
+- id: 8b292bf19e0044fb914e956aaf01d4f9
+  span:
+    start: 56154
+    end: 56208
+- id: bc11220a38334fce8d0049f5d8312e53
+  span:
+    start: 62620
+    end: 62666
+- id: e42ab00891e4440ca4513b098ee3a1b0
+  span:
+    start: 63104
+    end: 63135
+- id: 835ee3baeaf749c2a6f5516c87a88f66
+  span:
+    start: 70636
+    end: 70684
+- id: 743ced64646d40a4a3ed61834fa8bfac
+  span:
+    start: 81994
+    end: 82208
+- id: 58cdb8b2732e49fc8ad92a6027e47fdf
+  span:
+    start: 134857
+    end: 134911
+- id: 22585770b4574c82ae421f9f5e0b3368
+  span:
+    start: 147403
+    end: 147856
+- id: 0f05ee7b21ce428aa9f1bdfb81a05ef9
+  span:
+    start: 148772
+    end: 148815
+- id: 45cae15b08a74f8d96ebf8a64bfb5295
+  span:
+    start: 149167
+    end: 149191
+- id: 10b3cc7e5f3b48698b9bdd355dfe6cfd
+  span:
+    start: 149621
+    end: 149649
+- id: ed51f618ff584a24b47b4ec9115a24b4
+  span:
+    start: 168460
+    end: 168530
+- id: 3f4ff92546b64d308e9ba045aeab9233
+  span:
+    start: 198078
+    end: 198178
+- id: c9c0f5f9c7bb47369f4ea7e8e500793e
+  span:
+    start: 264394
+    end: 264446
+- id: 097a8c4fa9e94b6da3e16705b7f2b1d5
+  span:
+    start: 265389
+    end: 265479
+- id: f1fbcea4b174427baa84edadb869c9ec
+  span:
+    start: 279549
+    end: 279653

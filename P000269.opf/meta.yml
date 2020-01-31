@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
+  sku: VVI-013
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Royal Treasury:A Commentary on Mahamudra Insruction
+    bo: ཕྱག་རྒྱ་ཆེན་པོའི་མན་ངག་གི་བཤད་སྦྱར་རྒྱལ་བའི་གན་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 13
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༡༣
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-013
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-013.epub
+  description:
+    en: ''
+    bo: ''
