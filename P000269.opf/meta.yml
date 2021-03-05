@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000269
+initial_creation_type: ebook
+source_metadata:
   title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
-  sku: VVI-013
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: VVI-013
 web_metadata:
   title:
     en: Royal Treasury:A Commentary on Mahamudra Insruction
